@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Machine Learning models
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pkl
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
